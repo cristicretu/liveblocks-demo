@@ -1,3 +1,5 @@
+const { generateKey } = require('crypto')
+
 module.exports = {
   content: [
     './pages/**/*.{js,ts,jsx,tsx}',

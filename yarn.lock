@@ -23,6 +23,16 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+"@liveblocks/client@^0.14.0":
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/@liveblocks/client/-/client-0.14.0.tgz#2a5f7bd243d3aea7b95cf62737e49dc13df1b69b"
+  integrity sha512-I1nykCqYSpuBQhP1kZplYqL6L0+C1JocW01UKgPz+tthOOGdTdsNBHPcMigxou4vsOQutUuEJUcaDsd1or4A+Q==
+
+"@liveblocks/react@^0.14.0":
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/@liveblocks/react/-/react-0.14.0.tgz#1a29ff10e88ea04d029f553f8b14a6cff4584f70"
+  integrity sha512-KGuEEmifh3A9OEHTYaR3+yxIQOhdAQG59d0eOqKbyV/I0X6IoX4kAtXZjnZllrWrTwnnSY2aPFESthtt19t6EQ==
+
 "@next/env@12.0.9":
   version "12.0.9"
   resolved "https://registry.yarnpkg.com/@next/env/-/env-12.0.9.tgz#4c9e9eef00226145d9629a846b8cc31878e1328c"
